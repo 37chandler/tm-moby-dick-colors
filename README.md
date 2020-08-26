@@ -11,3 +11,5 @@ In Part 1 of this exercise, I'd like you to read in the file of colors I've crea
 stored in `colors.txt`. Use this to build a list of the colors in _Moby Dick_. In part 2, 
 which will come in a few weeks, we'll build the list of colors ourselves. 
 
+If you're curious, I grabbed all the colors from the [Wikipedia list of colors](https://en.wikipedia.org/wiki/List_of_colors_(compact)).
+
